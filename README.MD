@@ -1,6 +1,7 @@
 # Web Scraping Automation Tool
 
 A Python-based web scraping tool with a modern web interface built using **NiceGUI**. It allows users to scrape data from websites, save it to a CSV file, send it via email, and schedule scraping tasks at specific intervals.
+---![Screenshot](image.png)
 
 ---
 
